@@ -1,2 +1,1 @@
-Monkey D. Luffy
-Sanji
+sanji
